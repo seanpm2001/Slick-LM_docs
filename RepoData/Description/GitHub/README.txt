@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+💳️📖️ The officia documentation source repository for the Slick license manager, a powerful and detailed license manager for the S Desktop Environment/SDE/Skeuowie 
